@@ -2,9 +2,9 @@
     background-color: rgb(220, 235, 245);
     
 }
-main{
+body{
     box-sizing: border-box;
-    
+    margin: 90px auto;
 }
 .border-box, .image, h3, p{
     background-color: hsl(0, 0%, 100%);
@@ -14,8 +14,8 @@ main{
     width: 350px;
     height: 550px;
     border-radius:20px ;
-    
-    margin: 150px auto;
+    margin: 20px auto;
+   
 }
 
 .image{
