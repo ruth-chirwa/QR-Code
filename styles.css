@@ -4,7 +4,7 @@
 }
 body{
     box-sizing: border-box;
-    margin: 90px auto;
+    margin: 80px auto;
 }
 .border-box, .image, h3, p{
     background-color: hsl(0, 0%, 100%);
